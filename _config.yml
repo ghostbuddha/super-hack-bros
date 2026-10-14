@@ -21,9 +21,10 @@
 title: Super Hack Bros.
 email: adamthen94@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Two friends find themselves diametrically opposed as they delve 
+  further into defensive and offensive cyber capabilities. 
+  With Rzrd as the blue team and Ghostbuddha as the red team, 
+  the two sharpen their skills by conducting purple team exercises!
 baseurl: "super-hack-bros" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ghostbuddha
